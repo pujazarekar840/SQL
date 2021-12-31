@@ -1,0 +1,1 @@
+SEL * FROM EMPLOYEE;
